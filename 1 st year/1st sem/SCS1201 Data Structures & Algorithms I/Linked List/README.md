@@ -92,13 +92,13 @@ this will show the list
 void displayList(Node *start);
 ```
 
-> sort the list
+> sort the list >
 this will sort the list
 ```c
 Node* sort_list(Node* start);
 ```
 
-> main method
+> main method <
 the main function :smiley:
 ```c
 int main();
