@@ -92,13 +92,13 @@ Node* delete_list(Node* start);
 void displayList(Node *start);
 ```
 
-- sort the list >
+- sort the list 
   - This will sort the list
 ```c
 Node* sort_list(Node* start);
 ```
 
-- main method <
+- main method 
   - The main function :smiley:
 ```c
 int main();
