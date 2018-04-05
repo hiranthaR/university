@@ -1,0 +1,21 @@
+n = size of queue
+
+repeat n times	
+
+	x = dequeue item
+
+	repeat (n-1) times
+
+		y = dequeue(q);
+
+		if x<y then
+			enqueue y
+		else
+			enqueue x
+			x = y
+		end if
+	end loop
+
+	enqueue x
+
+end loop
